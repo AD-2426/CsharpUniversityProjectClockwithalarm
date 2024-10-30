@@ -74,7 +74,7 @@ namespace WindowsFormsApp2
         private void PlayAlarmSound()
         {
             // wav. дауыстық файлының жолы
-            string soundFilePath = @"C:\Users\AD\source\repos\WindowsFormsApp2\WindowsFormsApp2\alarm.wav";
+            string soundFilePath = "alarm.wav";
 
             try
             {
